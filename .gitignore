@@ -1,0 +1,19 @@
+# Local data databases (Ignore your personal financial inputs)
+expenses.json
+budget.json
+*.csv
+
+# Python caching components
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit operational configurations
+.streamlit/
+
+# Virtual Environments
+venv/
+ENV/
+.env
